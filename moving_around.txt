@@ -1,0 +1,233 @@
+# fish specific command for showing file size
+ll
+
+# built in long format
+ls -l
+ls
+
+#redirect file to save it, use >> to add instead of overwriting existing file
+history > moving_around.txt
+cd
+
+#manual show up in paged format
+man less
+man ls
+
+# pipe history to show up in pages. use space to page up or down
+history | less
+/git
+H
+h
+help
+history
+node console.log('HELLO WORLD')
+learnyounode
+lear
+sudo npm install -g learnyounode
+npm install -g learnyounode
+brew install npm
+subl .
+ls .
+ls /Users/mengchen/Downloads/
+ls /Users/mengchen/Down
+ls Downloads
+ls ~
+cd CodeFellowsGit/
+cd Cod
+cd Documents
+pwd
+cd ..
+cd CFCC
+~CFCC
+cd /Users/mengchen
+cd /
+cd ~
+cd
+ls -A
+ls -a
+ls -p
+
+#don't use this in the root directory
+ls -R
+-R
+man
+ls -tl
+ls -trl
+ls -rtl
+ls -rlt
+ls -lt
+ls -t
+ls -t -l
+cd/
+/pwd
+path
+git config --global user.email 'tamulemon@gmail.com'
+git config
+subl /etc/paths
+subl /etc/paths.d/
+git --version
+subl
+subl -wjkljklk
+echo $EDITOR
+echo $E
+echo $PATH
+echo $P
+exit
+/Users/mengchen/CFCC
+psd
+sudo npm install -g lodash
+npm install -g lodash
+$ npm i --save lodash
+$ {sudo -H} npm i -g npm
+brew install lodash
+brew install nodejs
+brew link --overwrite node
+brew nodejs
+echo $SHELL
+brew update
+echo EDITOR
+uname
+brew doctor
+brew docgor
+brew
+ls -G
+meng chen
+quit
+git
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Meng Chen'
+brew install git
+cd..
+env
+echo $EDITOR
+echo $EDI
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+Terminal>Preference
+git clone https://gitbub.com/git/git
+cd Documents/workspace
+which npm
+npm
+which node
+node
+whoami
+ll
+history > moving_around.txt
+ls -l
+ls
+cd
+man less
+man ls
+history | less
+/git
+H
+h
+help
+history
+node console.log('HELLO WORLD')
+learnyounode
+lear
+sudo npm install -g learnyounode
+npm install -g learnyounode
+brew install npm
+subl .
+ls .
+ls /Users/mengchen/Downloads/
+ls /Users/mengchen/Down
+ls Downloads
+ls ~
+cd CodeFellowsGit/
+cd Cod
+cd Documents
+pwd
+cd ..
+cd CFCC
+~CFCC
+cd /Users/mengchen
+cd /
+cd ~
+cd
+ls -A
+ls -a
+ls -p
+ls -R
+-R
+man
+ls -tl
+ls -trl
+ls -rtl
+ls -rlt
+ls -lt
+ls -t
+ls -t -l
+cd/
+/pwd
+path
+git config --global user.email 'tamulemon@gmail.com'
+git config
+subl /etc/paths
+subl /etc/paths.d/
+git --version
+subl
+subl -w
+echo $EDITOR
+echo $E
+echo $PATH
+echo $P
+exit
+/Users/mengchen/CFCC
+psd
+sudo npm install -g lodash
+npm install -g lodash
+$ npm i --save lodash
+$ {sudo -H} npm i -g npm
+brew install lodash
+brew install nodejs
+brew link --overwrite node
+brew nodejs
+echo $SHELL
+brew update
+echo EDITOR
+uname
+brew doctor
+brew docgor
+brew
+ls -G
+meng chen
+quit
+git
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'Meng Chen'
+brew install git
+cd..
+env
+echo $EDITOR
+echo $EDI
+# Sublime Text
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+Terminal>Preference
+git clone https://gitbub.com/git/git
+cd Documents/workspace
+which npm
+npm
+which node
+node
+whoami
