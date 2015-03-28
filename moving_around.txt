@@ -1,3 +1,5 @@
+# version 2 testing for version control
+
 # fish specific command for showing file size
 ll
 
